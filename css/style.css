@@ -1,0 +1,38 @@
+/*@import a Google Font here!*/
+html{
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url('../images/background.png');
+}
+
+#container{
+
+}
+
+.dashed {
+    
+}
+
+.left-container, .right-container {
+    display: inline-block;
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 25%;
+    text-align: center;
+}
+
+
+h2 {
+    color: grey;
+}
+
+.right-container {
+    float: right;
+}
+
+p{
+    color: salmon;
+}
